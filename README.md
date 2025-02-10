@@ -1,4 +1,18 @@
 <img src="/image.png">
+
+
+## Technologies
+
+- HTML
+- CSS
+- Tailwind
+- Bootstrap
+- JavaScript
+- jQuery
+- Vue.js
+- React.js
+
+
 <!--
 **andreslarrahona/andreslarrahona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
