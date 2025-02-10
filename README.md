@@ -1,7 +1,7 @@
 <img src="/image.png">
 
 
-## Technologies
+## Languages and tools
 
 - HTML
 - CSS
