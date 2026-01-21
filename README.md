@@ -1,4 +1,4 @@
-<img src="/larrahona-github.png">
+<img src="/Larrahona-github.png">
 
 # 💻 Tech Stack & Infrastructure
 
