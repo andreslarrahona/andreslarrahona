@@ -9,6 +9,7 @@ Focused on reliability, observability, and end-to-end ownership of data workflow
 
 ### Core Stack
 Python · SQL · Apache Spark · Apache Airflow · Docker · AWS (EC2, S3, RDS, Lambda) · Git
+
 Metabase · Power BI
 
 ---
