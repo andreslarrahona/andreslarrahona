@@ -2,27 +2,33 @@
 
 ## Data & Analytics Engineer
 
-Hands-on experience designing, deploying, and operating data platforms and automation systems in production environments.  
+Design, deployment, and operation of production-grade data platforms in real environments.
 Focused on reliability, observability, and end-to-end ownership of data workflows.
 
 ---
 
 ### Core Stack
-Python · SQL · Apache Spark · Apache Airflow · Docker · AWS · Git
-
-### Analytics & BI
+Python · SQL · Apache Spark · Apache Airflow · Docker · AWS (EC2, S3, RDS, Lambda) · Git
 Metabase · Power BI
 
 ---
 
-### Systems & Platforms
-- Design and implementation of end-to-end data pipelines in production
-- Automation of operational workflows and data quality processes
-- Analytics and reporting platforms supporting day-to-day decision making
-- Integration of on-premise systems with cloud-based data infrastructure
+### Why I build
+- Deterministic data pipelines orchestrated with Airflow
+- Containerized workloads deployed on dedicated hosts
+- On-prem ↔ cloud integrations
+- Automated data quality and operational workflows
+- Analytics platforms for operational decision-making
+
+---
+
+### Production impact
+- Eliminated silent failures in critical sync processes
+- Replaced ad-hoc scripting with reproducible, monitored workflows
+- Implemented real-time service health visibility
 
 ---
 
 🚀 **Featured Architecture:** **[End-to-End Weather ETL](https://github.com/andreslarrahona/weather-etl)**  
-Production-grade data pipeline deployed on AWS.  
-Ingests, transforms, and serves structured data using Airflow orchestration, containerized workloads, and automated deployments.
+AWS-based pipeline using Airflow orchestration, Dockerized services, S3 storage, and relational warehouse.
+Designed for isolation, traceability, and reproducibility.
