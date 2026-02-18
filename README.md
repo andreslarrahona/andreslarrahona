@@ -1,6 +1,6 @@
 <img src="/Larrahona_Data.png">
 
-## Senior Data & Analytics Engineer
+## Data & Analytics Engineer
 
 Hands-on experience designing, deploying, and operating data platforms and automation systems in production environments.  
 Focused on reliability, observability, and end-to-end ownership of data workflows.
