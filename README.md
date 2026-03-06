@@ -15,7 +15,6 @@ Currently, I lead technical and data operations at a Calibration Laboratory, whe
 
 #### **Logic & Code Traceability**
 *   **[Regulated SDLC Governance](https://github.com/andreslarrahona/regulated-sdlc-governance)**: Implementation of auditable change control, treating code as a critical component of the measurement process.
-*   **[Legacy Dependency Mapper](https://github.com/andreslarrahona/lineage-mapper)**: Forensic tool built with Python to resolve SQL lineage and hidden dependencies in monolithic systems.
 *   **[Laboratory Telemetry (MQTT)](https://github.com/andreslarrahona/lab-telemetry-elt)**: Resilient event-driven pipeline for hardware signals, ensuring zero data loss and metrological rigor during ingestion.
 
 #### **Infrastructure & Operational Resilience**
