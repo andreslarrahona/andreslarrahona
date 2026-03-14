@@ -10,7 +10,7 @@ Currently, I lead technical and data operations at a Calibration Laboratory, whe
 
 ### Operational Analytics
 
-* **[Operational Analytics Platform](...)**: Event-driven analytics platform for laboratory workflows, reconstructing operational metrics and cycle times from transactional systems.
+* **[Operational Analytics Platform](https://github.com/andreslarrahona/operational-analytics-platform)**: Event-driven analytics platform for laboratory workflows, reconstructing operational metrics and cycle times from transactional systems.
 
 #### **Data Integrity & Quality Gates**
 *   **[LookML Architecture POC](https://github.com/andreslarrahona/lab-lookml-poc)**: Centralized semantic layer designed to resolve financial data integrity and grain issues (fan-out).
