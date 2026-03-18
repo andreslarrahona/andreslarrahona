@@ -14,6 +14,7 @@ Currently, I lead technical and data operations at a Calibration Laboratory, whe
 
 #### **Data Integrity & Quality Gates**
 *   **[LookML Architecture POC](https://github.com/andreslarrahona/lab-lookml-poc)**: Centralized semantic layer designed to resolve financial data integrity and grain issues (fan-out).
+*   **[Data Resiliency in Snowflake](https://github.com/andreslarrahona/snowflake-resilient-ingestion)**: Evaluation of Snowflake's native capabilities for handling schema-less JSON ingestion, with multi-condition quality classification, and role-based access control.
 *   **[Stability Audit: USD Assets](https://github.com/andreslarrahona/data-metrology-finance)**: Statistical control and tolerance analysis applied to fintech, treating price as an industrial measurement.
 
 #### **Logic & Code Traceability**
